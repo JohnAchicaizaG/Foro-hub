@@ -1,7 +1,7 @@
 # Foro-hub
 ### Proyecto de Gestión de Productos con Spring Boot
 
-Este proyecto desarrollado en Java con Spring Boot implementa un sistema de gestión de posts para FORO-HUB con funcionalidades de autenticación y autorización. El API proporcionado permite realizar operaciones CRUD para la modificación de productos.
+Este proyecto desarrollado en Java con Spring Boot implementa un sistema de gestión de posts para FORO-HUB con funcionalidades de autenticación y autorización. El API proporcionado permite realizar operaciones CRUD para la modificación de los posts.
 
 #### Características del Proyecto:
 
